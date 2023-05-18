@@ -1,0 +1,12 @@
+body {
+  background-color: #ffffff;
+}
+
+/* malicious code injected by attacker */
+script {
+  alert("XSS attack!");
+}
+/* malicious code injected by attacker */
+script {
+  alert("XSS attack!");
+}
